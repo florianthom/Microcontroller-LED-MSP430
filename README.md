@@ -15,7 +15,7 @@ The underlying context is a LED-light problem. The LEDs of the microcontroller h
 
 ## Build with
 - Microcontroller from the family TI MSP430
-  - recommended: MSP430gs553
+  - recommended: MSP430g2553
 - Code Composer Studio (CCS)
 
 ## Acknowledgements
