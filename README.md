@@ -12,10 +12,11 @@ The underlying context is a LED-light problem. The LEDs of the microcontroller h
 
 ## Prerequisites
 - Basic understanding of a microcontroller, especially about timer usage in a low-power modus
-
-## Build with
 - Microcontroller from the family TI MSP430
   - recommended: MSP430g2553
+
+## Build with
+- MSP430g2553
 - Code Composer Studio (CCS)
 
 ## Acknowledgements
